@@ -4,9 +4,7 @@ A responsive portfolio showcasing my journey as a computer science student inter
 
 ## Website
 
-**GitHub Pages address:** https://nishant6563.github.io/personal-portfolio/
-
-The address becomes available after GitHub Pages is enabled for the `main` branch and its deployment completes.
+**Portfolio website:** [nishantdharra.com](http://nishantdharra.com/)
 
 ## Features
 
