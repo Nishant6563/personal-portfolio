@@ -4,7 +4,7 @@ A responsive portfolio showcasing my journey as a computer science student inter
 
 ## Website
 
-**Portfolio website:** [nishantdharra.com](http://nishantdharra.com/)
+**GitHub Pages website:** [nishant6563.github.io/personal-portfolio](https://nishant6563.github.io/personal-portfolio/)
 
 ## Features
 
